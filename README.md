@@ -13,5 +13,5 @@ The study applies causal inference methods, including Counterfactual Analysis, V
 
 ## Repository Contents
 - Dissertation.pdf: Full text of the dissertation document.
-- Data/: Due to privacy concerns, the actual patient datasets analyzed in this study cannot be uploaded or shared publicly. The folder contains sample or anonymized data where applicable.
-- Scripts/: Contains Python scripts used for data analysis and model implementation.
+- Data: Due to privacy concerns, the actual patient datasets analyzed in this study cannot be uploaded or shared publicly.
+- Scripts: Contains Python scripts used for data analysis and model implementation.
